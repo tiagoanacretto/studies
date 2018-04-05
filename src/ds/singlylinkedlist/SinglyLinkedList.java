@@ -3,7 +3,6 @@ package ds.singlylinkedlist;
 public class SinglyLinkedList {
 
 	private Node first;
-	private Node last;
 	
 	public SinglyLinkedList() {
 	}
