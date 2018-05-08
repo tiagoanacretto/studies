@@ -30,6 +30,7 @@ public class App {
 	}
 	
 	public static int recursiveBinarySearch(int[] a, int p, int r, int x) {
+		System.out.println("[" + p + "..." + r + "]");
 		if (p > r) {
 			return -1;
 		} else {
