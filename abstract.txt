@@ -1,0 +1,6 @@
+
+Data structures
+
+Stask - class 9
+ 
+ Last in, first out

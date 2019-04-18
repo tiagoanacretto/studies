@@ -39,4 +39,12 @@
    > Constant                     -> 0(1)  => big o of 1
    > Exponential                  -> 0(n^n)
    
+ 9. Stack Data Structure
  
+   > LIFO = Last in, first out
+   > Push to add, pop to remove, always in the top of structure
+   > Implementation: use a array to keep the values and an integer to pointer the position of the last item inserted
+   > A practical example of use of Stack is to reverse a String or to resolve math problems with parenthesis
+   
+11. Queue Data Structure
+   
