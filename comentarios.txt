@@ -1,0 +1,42 @@
+
+## Section 0 ##
+
+ 1. Just introduction
+ 
+## Section 1 ##
+
+ 2. Intro to OOP Class & Object
+ 
+ The basic of OOP and creation of Java class
+ Files: Human.java and Earth.java
+ 
+ 3. Program Flow and Using the Constructor
+ 
+ How to use a constructor.
+ 
+ 4. Application Runtime
+ 
+ The difference about class and object
+ 
+ 5. Java Behind The Scenes
+ 
+ Memories: Stack: the place where application piles the methods invocations
+           Heap : memory where variables are save
+		   Garbage Collector: release not used variables in heap
+		   
+## Section 2 ##
+
+ 7. Abstract Data Types
+		   
+ Container to keep data structures and manage them
+ 
+ 8. Running time of an algorithm and big O notation
+ 
+ Growth Rate                          Asymptotic Notation
+   > Linear   : single loop       -> 0(n)  => big o of n
+   > Quadratic: loop inside loop  -> 0(n²) => big o of n squared
+   > Cubic: loop in loop in loop  -> 0(n^3)
+   > Constant                     -> 0(1)  => big o of 1
+   > Exponential                  -> 0(n^n)
+   
+ 
