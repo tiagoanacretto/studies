@@ -1,6 +1,10 @@
 
 Data structures
 
-Stask - class 9
+Stack - class 9
  
  Last in, first out
+ 
+Queue - class 11
+
+ FIFO = First In, First Out

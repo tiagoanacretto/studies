@@ -47,4 +47,9 @@
    > A practical example of use of Stack is to reverse a String or to resolve math problems with parenthesis
    
 11. Queue Data Structure
-   
+
+   > FIFO = First In, First Out - It's a line
+   > Works as a simple line, who comes first, is first processed
+
+12. Introduction to Linked Lists
+
